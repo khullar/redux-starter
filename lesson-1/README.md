@@ -1,0 +1,1 @@
+ The first principle of Redux is that everything that changes in your application, including the data and the UI state, is contained in a single object, we call the state or the state tree.

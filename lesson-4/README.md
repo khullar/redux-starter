@@ -1,0 +1,1 @@
+The last principle of Redux --- To describe state mutations, you have to write a function that takes the previous state of the app, the action being dispatched, and returns the next state of the app. This function has to be pure. This function is called the "Reducer."
