@@ -1,0 +1,1 @@
+Redux: Extracting Presentational Components (Todo, TodoList)
